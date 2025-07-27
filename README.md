@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+<HEAD
+ HEAD
+ HEAD HEAD
+HEAD
 git
 =======
 # mon-htlm.com
