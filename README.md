@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 git
 =======
 # mon-htlm.com
@@ -15,3 +16,6 @@ git
 =======
 # Clement-site-html
 >>>>>>> f64b25ce6535bbad5d5ef143c97a2d11f4a234a4
+=======
+# my-thang
+>>>>>>> f832cc9341ddfce49ccaf982224b0c68c037c7b4
