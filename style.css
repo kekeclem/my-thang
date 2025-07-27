@@ -1,0 +1,57 @@
+css
+body p{ font-size: medium; color: blue; 
+
+}
+.article-stylisé {
+    color: yellow; font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+.paragraphe-coloré {
+    font-weight: bolder; font-style: italic;
+
+}
+.image-flottante {
+    position: absolute;
+    right: 5%;
+    top: 160px;
+    height: 700px;
+    width: 600px;
+}
+.lien-droite {
+    float: right;
+    margin-right: 3%;
+    margin-top: 60px;
+    font-weight: bolder;
+    font-style: inherit;
+    color:green
+}
+    
+.lien-right{
+    float: right;
+    margin-right: 3%;
+    margin-top: 60px;
+    font-weight: bolder;
+    font-style: inherit;
+    color:green
+}
+.link-right{
+    float: right;
+    margin-right: 3%;
+    margin-top: 60px;
+    font-weight: bolder;
+    font-style: inherit;
+    color:green
+}
+.link-droite{
+    float: right;
+    margin-right: 3%;
+    margin-top: 60px;
+    font-weight: bolder;
+    font-style: inherit;
+    color:green
+
+}
+.article-top{
+    margin-top: 200px;
+}
